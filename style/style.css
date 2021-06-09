@@ -1,0 +1,140 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #fff;
+  font-family: Arial, sans-serif;
+  font-size: 13px;
+}
+
+nav {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  height: 60px;
+  padding: 6px;
+}
+nav .nav-item {
+  padding-right: 15px;
+  text-decoration: none;
+  color: #000;
+}
+nav .nav-item .login {
+  background: #1a73e8;
+  color: #fff;
+  cursor: pointer;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  padding: 9px 23px;
+}
+nav .nav-item .login:hover {
+  background: #2b7de9;
+  box-shadow: 0 1px 2px 0 #4285f44d, 0 1px 3px 1px #4285f426;
+}
+nav .nav-item:hover {
+  text-decoration: underline;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.container .google-imagens {
+  text-align: end;
+  font-size: 16px;
+  color: #4285f4;
+}
+.container form#pesquisa {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+}
+.container form#pesquisa .caixa-pesquisa {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  width: 582px;
+  height: 44px;
+  border: 1px solid #dfe1e5;
+  border-radius: 24px;
+  background: #fff;
+}
+.container form#pesquisa .caixa-pesquisa .fa-search {
+  padding: 0px 13px;
+}
+.container form#pesquisa .caixa-pesquisa .input-pesquisa {
+  border: 1px solid transparent;
+  height: 40px;
+  width: 496px;
+  font-size: 16px;
+  outline-width: 0;
+}
+.container form#pesquisa .caixa-pesquisa .fa-microphone {
+  padding: 0px 13px;
+}
+.container form#pesquisa .caixa-pesquisa:hover {
+  box-shadow: 0 1px 6px #20212447;
+  border: 1px solid #dfe1e500;
+}
+.container form#pesquisa .botoes {
+  display: flex;
+  justify-content: center;
+  padding-top: 25px;
+}
+.container form#pesquisa .botoes .botao {
+  padding: 0 16px;
+  margin: 11px 4px;
+  background: #f8f9fa;
+  font-size: 14px;
+  color: #3c4043;
+  border: 1px solid #f8f9fa;
+  border-radius: 4px;
+  height: 36px;
+}
+.container form#pesquisa .botoes .botao:hover {
+  cursor: pointer;
+  color: #202124;
+  border: 1px solid #dadce0;
+  box-shadow: 0 1px 1px #0000001a;
+}
+
+footer {
+  position: fixed;
+  bottom: 0;
+  background: #f2f2f2;
+  width: 100vw;
+}
+footer .pais {
+  color: #70757a;
+  height: 46px;
+  padding: 15px 30px;
+  font-size: 14px;
+  border-bottom: 1px solid #dadce0;
+}
+footer .informacoes {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  padding: 0 20px;
+}
+footer .informacoes .info1 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+footer .informacoes .footer-item {
+  text-decoration: none;
+  color: #70757a;
+  padding: 15px;
+  font-size: 14px;
+}
+footer .informacoes .footer-item:hover {
+  text-decoration: underline;
+}
+
+/*# sourceMappingURL=style.css.map */

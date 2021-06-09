@@ -1,0 +1,11 @@
+@media (max-width: 625px) {
+    .caixa-pesquisa {
+        max-width: 90vw;
+    }
+}
+
+@media (max-width: 1200px) {
+    footer .informacoes {
+        justify-content: space-evenly;
+    }
+}
