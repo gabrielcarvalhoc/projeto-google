@@ -6,11 +6,11 @@ Nas páginas, ao clicar em "Pesquisa Google", o usuário é levado aos respectiv
 
 
 
-![image-20210609154555579](C:\Users\Gabriel\AppData\Roaming\Typora\typora-user-images\image-20210609154555579.png)
+![google-search](https://user-images.githubusercontent.com/82124316/121415599-4ce28100-c93e-11eb-9c1e-6875ff567f6b.jpeg)
 
 
 
-![image-20210609154637461](C:\Users\Gabriel\AppData\Roaming\Typora\typora-user-images\image-20210609154637461.png)
+![google-images-search](https://user-images.githubusercontent.com/82124316/121415615-51a73500-c93e-11eb-906d-387f97d4a338.jpeg)
 
 
 
