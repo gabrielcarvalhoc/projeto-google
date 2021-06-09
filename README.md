@@ -1,4 +1,4 @@
-### Recriando a Página do Google e Google Imagens :mag:
+# Recriando a Página do Google e Google Imagens :mag:
 
 Seja bem vindo! Neste projeto, recriei a interface do Google e Google Imagens, com todos os botões da página funcionais!
 
